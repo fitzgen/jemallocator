@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["MALLOCX_ZERO",""]],"fn":[["calloc",""],["mallctl",""],["mallctlbymib",""],["mallctlnametomib",""],["malloc_stats_print",""],["malloc_usable_size",""],["mallocx",""],["nallocx",""],["rallocx",""],["sdallocx",""],["xallocx",""]]});
